@@ -1,4 +1,3 @@
-# Hostel_Attendance_System
 # Hostel Attendance System
 
 ## Description
