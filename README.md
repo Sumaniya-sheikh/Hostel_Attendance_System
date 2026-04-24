@@ -26,7 +26,7 @@ It is used to manage hostel attendance and student records.
 ## Database
 - Database Name: hostel_db
 - Default Username: root
-- Password: (leave empty for XAMPP)
+- Password: (leave empty for default XAMPP setup))
 
 ## Contributors
 - Sumaniya Sheikh  
